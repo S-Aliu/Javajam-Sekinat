@@ -47,3 +47,7 @@ nav {
   width: 1000px;
   box-shadow: 5px 5px 5px  #1e1e1e;
 }
+
+ul {
+  list-style-image: url("../images/marker.gif");
+}
