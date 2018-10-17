@@ -1,0 +1,53 @@
+body {
+  font-family: Verdana, helvetica, sans-serif;
+  background-image: url("../images/javabackground.gif");
+
+}
+
+#javajam-header {
+  font-family: Verdana, helvetica, sans-serif;
+  background-color: #D2B48C;
+  /* height: 100px;
+  how much to separate background from image */
+  display: block;
+  width: 700px;
+  height: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+h2 {
+  font-family: Verdana, helvetica, sans-serif;
+}
+
+footer {
+  font-size: .80em;
+  font-style: italic;
+  background-color: #D2B48C;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  text-align: center;
+}
+
+.cnter {
+  text-align: center;
+}
+
+.padder {
+  padding-left: 20px;
+}
+
+#container {
+  background-color: #F5F5DC;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  box-shadow: 5px 5px 5px  #1e1e1e;
+}
+
+ul {
+  list-style-image: url("../images/marker.gif");
+}
